@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-sospizza
+Exec=harbour-sospizza
+Name=SOSPizza
+
+[X-Sailjail]
+OrganizationName=dev.scarpino
+ApplicationName=harbour-sospizza
