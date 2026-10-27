@@ -23,7 +23,7 @@ Categories:
  - Utility
 Custom:
   Repo: https://github.com/ilpianista/harbour-SOSPizza
-Icon: https://raw.githubusercontent.com/ilpianista/harbour-SOSPizza/master/icons/256x256/harbour-sospizza.png
+PackageIcon: https://raw.githubusercontent.com/ilpianista/harbour-SOSPizza/master/icons/256x256/harbour-sospizza.png
 Screenshots:
  - https://raw.githubusercontent.com/ilpianista/harbour-SOSPizza/master/screenshots/screenshot_1.png
  - https://raw.githubusercontent.com/ilpianista/harbour-SOSPizza/master/screenshots/screenshot_2.png
